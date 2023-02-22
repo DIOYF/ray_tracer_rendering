@@ -1,1 +1,1 @@
-# cuda_RayTracer
+# RayTracer
