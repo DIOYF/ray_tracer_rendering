@@ -12,7 +12,7 @@ the texture earthimage.jpg in Source
 
 ### Result
 
-![1](./FinalResult/demo.jpg)
+![1](./FinalResult/Demo.jpg)
 
 
 
