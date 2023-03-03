@@ -25,7 +25,7 @@ case 7:
 		aspect_ratio = 1.0;
 		image_width = 1000;
 		image_height = static_cast<int>(image_width / aspect_ratio);
-		samples_per_pixel = 10000;
+		samples_per_pixel = 1000; // Note the book set 10000, but It need too long time
 		background = color(0, 0, 0);
 		lookfrom = point3(478, 278, -600);
 		lookat = point3(278, 278, 0);
