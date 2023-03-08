@@ -1,3 +1,3 @@
 # RayTracer
 
-Only RT1, RT2, RT3 
+RT1, RT2, RT3 ， Result show in folder
